@@ -3,5 +3,6 @@ pandas
 numpy
 scipy
 openpyxl
+xlsxwriter
 pymannkendall
 plotly
